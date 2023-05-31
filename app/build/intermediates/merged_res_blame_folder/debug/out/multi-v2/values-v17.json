@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "nx.peter.app.brains.app-mergeDebugResources-53:/values-v17/values-v17.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/746d01b7d3c2aed0ab79237225e445e7/transformed/appcompat-1.6.1/res/values-v17/values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1161,1331,1559,1783,2025,2196,2370,2539,2812,3012,3216",
+                        "endLines": "4,8,11,14,17,21,24,28,32,36,39,42,45,49,52,56,60",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1156,1326,1554,1778,2020,2191,2365,2534,2807,3007,3211,3540"
+                    },
+                    "to": {
+                        "startLines": "2,5,17,20,23,26,30,33,37,41,45,48,51,54,58,61,65",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,944,1102,1252,1424,1649,1819,2047,2271,2513,2684,2858,3027,3300,3500,3704",
+                        "endLines": "4,8,19,22,25,29,32,36,40,44,47,50,53,57,60,64,68",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,1097,1247,1419,1644,1814,2042,2266,2508,2679,2853,3022,3295,3495,3699,4028"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ba3b4ec72b59356f0e032a9c3c099aa1/transformed/appcompat-v7-21.0.3/res/values-v17/values.xml",
+                    "from": {
+                        "startLines": "8,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "285,534",
+                        "endLines": "11,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "528,769"
+                    },
+                    "to": {
+                        "startLines": "9,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "456,704",
+                        "endLines": "12,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "699,939"
+                    }
+                }
+            ]
+        }
+    ]
+}

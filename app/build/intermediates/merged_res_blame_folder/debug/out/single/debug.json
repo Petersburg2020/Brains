@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_whatsapp_qr_code.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/whatsapp_qr_code.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_uploaded_file_thumbnail.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/uploaded_file_thumbnail.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_visible.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/visible.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_upload_file_dialog.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/upload_file_dialog.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_username.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/username.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_q_and_a.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/q_and_a.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_flaticon_pdf_dummy.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/flaticon_pdf_dummy.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_facebook.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/facebook.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_btn_submit.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/btn_submit.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_twitter.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/twitter.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_whatsapp.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/whatsapp.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ic_profile_black_24dp.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ic_profile_black_24dp.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_instagram.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/instagram.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_no_image.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/no_image.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_btn_submit_normal.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/btn_submit_normal.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_take_test.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/take_test.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_user_profile_picture.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/user_profile_picture.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_certificate.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/certificate.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_welcome_night.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/welcome_night.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_edit_profile.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/edit_profile.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_btn_submit_pressed.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/btn_submit_pressed.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_logo_day.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/logo_day.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_upload_normal.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/upload_normal.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_edit.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/edit.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_edit_normal.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/edit_normal.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ic_courses_black_24dp.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ic_courses_black_24dp.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_login_bg_night.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/login_bg_night.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ai_night.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ai_night.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_explorer.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/explorer.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_medium.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/medium.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_logo_night.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/logo_night.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_fragment_dashboard.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_delete.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/delete.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_news.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/news.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_connect.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/connect.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_fragment_notifications.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_activity_splash.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ic_pdfviewpager.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ic_pdfviewpager.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_email.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/email.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_circle_progress.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/circle_progress.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_ai_day.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/ai_day.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_title.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/title.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_mentorship.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/mentorship.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_github.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/github.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_edit_detail.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/edit_detail.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_java.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/java.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_add.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/add.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_learn.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/learn.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_logout.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/logout.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_welcome_day.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/welcome_day.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_alert_dialog.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_edit_pressed.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/edit_pressed.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/drawable_user.png.flat",
+        "source": "nx.peter.app.brains.app-main-57:/drawable/user.png"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_fragment_home.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/layout_perform_task.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/layout/perform_task.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-merged_res-55:/navigation_mobile_navigation.xml.flat",
+        "source": "nx.peter.app.brains.app-main-57:/navigation/mobile_navigation.xml"
+    }
+]

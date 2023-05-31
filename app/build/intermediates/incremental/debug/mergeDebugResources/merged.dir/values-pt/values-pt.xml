@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="com_parse_ui_password_too_short_toast">
+        <item quantity="one">Senha deve conter pelo menos %d caracter</item>
+        <item quantity="other">Senha deve conter pelo menos %d caracteres</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="com_parse_ui_confirm_password_input_hint">Confirmar senha</string>
+    <string name="com_parse_ui_create_account_button_label">Criar conta</string>
+    <string name="com_parse_ui_email_input_hint">E-mail</string>
+    <string name="com_parse_ui_email_taken_toast">E-mail já foi cadastrado, por favor redefina a sua senha</string>
+    <string name="com_parse_ui_facebook_login_button_label">Entrar com Facebook</string>
+    <string name="com_parse_ui_facebook_login_failed_toast">Entrar com Facebook falhou</string>
+    <string name="com_parse_ui_forgot_password_button_label"><u>Esqueci a senha</u></string>
+    <string name="com_parse_ui_invalid_email_toast">E-mail inválido, corrija e tente novamente</string>
+    <string name="com_parse_ui_login_dispatch_user_logged_in">"Usuário conectado, iniciando: "</string>
+    <string name="com_parse_ui_login_dispatch_user_not_logged_in">Usuário não conectado, iniciando ParseLoginActivity</string>
+    <string name="com_parse_ui_login_help_email_input_hint">E-mail</string>
+    <string name="com_parse_ui_login_help_email_sent">Verifique seu e-mail para obter informações sobre como acessar sua conta</string>
+    <string name="com_parse_ui_login_help_instructions">Informe seu e-mail para recuperar sua senha</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">Voltar para o Login</string>
+    <string name="com_parse_ui_login_help_submit_button_label">Enviar</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">Erro ao solicitar recadastramento da senha, tente novamente</string>
+    <string name="com_parse_ui_login_warning_disabled_facebook_login">Botão de login pelo Facebook faltando no layout, desabilite login pelo Facebook</string>
+    <string name="com_parse_ui_login_warning_disabled_twitter_login">Botão de login pelo Twitter faltando no layout, desabilite login pelo Twitter</string>
+    <string name="com_parse_ui_login_warning_disabled_username_password_login">Entrar e cadastrar com usuário e senha desabilitados devido a falta de elementos no layout</string>
+    <string name="com_parse_ui_login_warning_facebook_login_failed">"Login pelo Facebook falhou, exception: "</string>
+    <string name="com_parse_ui_login_warning_facebook_login_user_update_failed">"Atualizar objeto usuário falhou após o login pelo Facebook, exception: "</string>
+    <string name="com_parse_ui_login_warning_layout_missing_login_button">Botão entrar faltando no layout</string>
+    <string name="com_parse_ui_login_warning_layout_missing_login_help_button">Botão ajuda faltando no layout</string>
+    <string name="com_parse_ui_login_warning_layout_missing_password_field">Campo senha faltando no layout</string>
+    <string name="com_parse_ui_login_warning_layout_missing_signup_button">Botão cadastrar faltando no layout</string>
+    <string name="com_parse_ui_login_warning_layout_missing_username_field">Campo usuário faltando no layout</string>
+    <string name="com_parse_ui_login_warning_parse_login_failed">"Entrar com usuário e senha falhou, exception: "</string>
+    <string name="com_parse_ui_login_warning_parse_signup_failed">"Cadastrar falhou, exception: "</string>
+    <string name="com_parse_ui_login_warning_password_reset_failed">"Redefinir senha falhou, exception: "</string>
+    <string name="com_parse_ui_login_warning_twitter_login_failed">"Login pelo Twitter falhou, exception: "</string>
+    <string name="com_parse_ui_login_warning_twitter_login_user_update_failed">"Atualizar objeto usuário falhou após o login pelo Twitter, exception: "</string>
+    <string name="com_parse_ui_logo_content_description">Logomarca</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">Senha não confere, tente novamente</string>
+    <string name="com_parse_ui_name_input_hint">Nome</string>
+    <string name="com_parse_ui_no_email_toast">Informe seu e-mail</string>
+    <string name="com_parse_ui_no_name_toast">Informe seu nome</string>
+    <string name="com_parse_ui_no_password_toast">Informe sua senha</string>
+    <string name="com_parse_ui_no_username_toast">Informe seu usuário</string>
+    <string name="com_parse_ui_parse_login_button_label">Entrar</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">Não foi possível entrar, tente novamente mais tarde</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">Usuário e senha não conferem</string>
+    <string name="com_parse_ui_parse_signup_button_label">Cadastrar</string>
+    <string name="com_parse_ui_password_input_hint">Senha</string>
+    <string name="com_parse_ui_progress_dialog_text">Carregando…</string>
+    <string name="com_parse_ui_reenter_password_toast">Informe a senha novamente</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">Não foi possível cadastrar, tente novamente mais tarde</string>
+    <string name="com_parse_ui_twitter_login_button_label">Entrar com Twitter</string>
+    <string name="com_parse_ui_twitter_login_failed_toast">Entrar com Twitter falhou</string>
+    <string name="com_parse_ui_username_input_hint">Usuário</string>
+    <string name="com_parse_ui_username_taken_toast">Usuário já cadastrado, escolha outro</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Navegar para cima"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Abrir gaveta de navegação"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/grey_light"
+    android:orientation="vertical">
+
+    <nx.peter.app.android_ui.view.StyledText
+        android:layout_height="57dp"
+        android:layout_width="match_parent"
+        app:alignment="center"
+        app:elevation="20dp"
+        app:view_background="black"
+        android:textColor="@color/white"
+        app:view_font_style="bold"
+        android:text="@string/file_upload"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/title" />
+
+    <LinearLayout
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+        android:weightSum="6"
+        android:gravity="center_vertical"
+        android:background="@drawable/btn_submit_normal"
+        android:layout_margin="20dp"
+        android:orientation="horizontal"
+        android:backgroundTint="@color/white">
+
+        <ImageView
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:scaleType="centerCrop"
+            android:src="@drawable/no_image"
+            android:id="@+id/thumbnail" />
+
+        <nx.peter.app.android_ui.view.ScrollingText
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            app:alignment="center"
+            app:view_background="transparent"
+            android:textColor="@color/grey"
+            android:layout_weight="4"
+            android:text="@string/upload_file_here"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/screen" />
+
+        <ImageButton
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:background="@drawable/btn_submit"
+                android:layout_marginStart="10dp"
+                android:layout_weight="1"
+                android:src="@drawable/upload_normal"
+                android:id="@+id/pick"
+                android:contentDescription="@string/pick_file"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_marginHorizontal="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:background="@drawable/btn_submit"
+            android:backgroundTint="@color/red"
+            android:textColor="@color/white"
+            android:layout_weight="1"
+            android:text="@string/cancel"
+            android:textStyle="bold"
+            android:id="@+id/cancel" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/btn_submit"
+            android:backgroundTint="@color/grey"
+            android:textColor="@color/white"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:text="@string/clear"
+            android:textStyle="bold"
+            android:id="@+id/clear" />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:background="@drawable/btn_submit"
+            android:backgroundTint="@color/orange_200"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+            android:text="@string/submit"
+            android:textStyle="bold"
+            android:id="@+id/submit" />
+
+    </LinearLayout>
+
+</LinearLayout>

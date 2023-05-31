@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "nx.peter.app.brains.app-mergeDebugResources-53:/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/746d01b7d3c2aed0ab79237225e445e7/transformed/appcompat-1.6.1/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "132,203,274,344,414,482",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "198,269,339,409,477,545"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ba3b4ec72b59356f0e032a9c3c099aa1/transformed/appcompat-v7-21.0.3/res/values-xlarge/values.xml",
+                    "from": {
+                        "startLines": "3,5,7,8,9,10,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,134,199,266,333,399,466",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "128,193,261,328,394,460,516"
+                    },
+                    "to": {
+                        "startLines": "2,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,550,614,681,748,814,880",
+                        "endColumns": "76,63,66,66,65,65,54",
+                        "endOffsets": "127,609,676,743,809,875,930"
+                    }
+                }
+            ]
+        }
+    ]
+}

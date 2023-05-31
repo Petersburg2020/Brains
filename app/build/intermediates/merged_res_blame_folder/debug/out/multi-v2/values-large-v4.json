@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "nx.peter.app.brains.app-mergeDebugResources-53:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ba3b4ec72b59356f0e032a9c3c099aa1/transformed/appcompat-v7-21.0.3/res/values-large/values.xml",
+                    "from": {
+                        "startLines": "3,4,7,9,10,11,12,14",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,118,250,315,382,449,515,582",
+                        "endColumns": "61,71,63,66,66,65,65,54",
+                        "endOffsets": "113,185,309,377,444,510,576,632"
+                    },
+                    "to": {
+                        "startLines": "2,3,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,666,730,797,864,930,996",
+                        "endColumns": "61,71,63,66,66,65,65,54",
+                        "endOffsets": "112,184,725,792,859,925,991,1046"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/17d931799d0c9a5cdd9dfe2e05f433f1/transformed/material-1.9.0/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,177,311,752",
+                        "endLines": "2,3,9,15",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "172,306,747,1190"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,27",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1271,1393,1527,1968",
+                        "endLines": "19,20,26,32",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "1388,1522,1963,2406"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/746d01b7d3c2aed0ab79237225e445e7/transformed/appcompat-1.6.1/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "189,248,319,390,460,530,598,1051,1155",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "243,314,385,455,525,593,661,1150,1266"
+                    }
+                }
+            ]
+        }
+    ]
+}

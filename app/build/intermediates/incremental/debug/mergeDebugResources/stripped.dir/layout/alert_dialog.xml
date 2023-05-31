@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/grey_light"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <nx.peter.app.android_ui.view.StyledText
+        android:layout_height="57dp"
+        android:layout_width="match_parent"
+        app:alignment="center"
+        android:elevation="20dp"
+        app:view_background="black"
+        android:textColor="@color/white"
+        app:view_font_style="bold"
+        android:text="TITLE Block"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/title" />
+
+    <nx.peter.app.android_ui.view.StyledText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        app:alignment="center"
+        android:elevation="20dp"
+        app:view_background="black"
+        android:textColor="@color/white"
+        android:text="Here is your Message..."
+        android:layout_gravity="center_vertical"
+        android:id="@+id/message" />
+
+</LinearLayout>

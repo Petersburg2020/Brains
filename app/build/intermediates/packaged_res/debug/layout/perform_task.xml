@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:background="@color/grey_light"
+     android:orientation="vertical">
+
+    <nx.peter.app.android_ui.view.MultiActionText
+         android:layout_height="57dp"
+         android:layout_width="match_parent"
+         app:alignment="center"
+         android:elevation="20dp"
+         app:view_background="black"
+         android:textColor="@color/white"
+         app:view_font_style="bold"
+         android:text="@string/file_upload"
+         android:layout_gravity="center_vertical"
+         android:id="@+id/title" />
+
+    <nx.peter.app.android_ui.view.MultiActionText
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         app:alignment="top_left"
+         android:padding="20dp"
+         app:view_background="transparent"
+         android:textColor="@color/black99"
+         android:text="@string/upload_file_here"
+         android:layout_gravity="center_vertical"
+         android:id="@+id/message" />
+
+    <LinearLayout
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:weightSum="3"
+         android:layout_marginVertical="10dp"
+         android:layout_marginHorizontal="10dp"
+         android:orientation="horizontal">
+
+        <Button
+             android:layout_height="wrap_content"
+             android:layout_width="0dp"
+             android:background="@drawable/btn_submit"
+             android:backgroundTint="@color/red"
+             android:textColor="@color/white"
+             android:layout_weight="1"
+             android:text="NO"
+             android:textStyle="bold"
+             android:id="@+id/negative" />
+
+        <Button
+             android:layout_height="wrap_content"
+             android:layout_width="0dp"
+             android:layout_marginEnd="10dp"
+             android:background="@drawable/btn_submit"
+             android:backgroundTint="@color/grey"
+             android:textColor="@color/white"
+             android:layout_marginStart="10dp"
+             android:layout_weight="1"
+             android:text="@string/cancel"
+             android:textStyle="bold"
+             android:id="@+id/neutral" />
+
+        <Button
+             android:layout_height="wrap_content"
+             android:layout_width="0dp"
+             android:background="@drawable/btn_submit"
+             android:backgroundTint="@color/cyan"
+             android:textColor="@color/black"
+             android:layout_weight="1"
+             android:text="YES"
+             android:textStyle="bold"
+             android:id="@+id/positive" />
+
+    </LinearLayout>
+
+</LinearLayout>

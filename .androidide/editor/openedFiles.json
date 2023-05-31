@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": -1,
+          "line": 69
+        },
+        "start": {
+          "column": 0,
+          "index": -1,
+          "line": 69
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/res/layout/activity_splash.xml",
+      "selection": {
+        "end": {
+          "column": 17,
+          "index": -1,
+          "line": 40
+        },
+        "start": {
+          "column": 17,
+          "index": -1,
+          "line": 40
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/build.gradle"
+}

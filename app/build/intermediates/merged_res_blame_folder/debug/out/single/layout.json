@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/user_profile_picture.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/user_profile_picture.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/alert_dialog.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/fragment_dashboard.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/uploaded_file_thumbnail.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/uploaded_file_thumbnail.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/upload_file_dialog.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/upload_file_dialog.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/activity_splash.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/fragment_notifications.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "nx.peter.app.brains.app-mergeDebugResources-54:/layout/perform_task.xml",
+        "source": "nx.peter.app.brains.app-main-57:/layout/perform_task.xml"
+    }
+]

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "nx.peter.app.brains.app-mergeDebugResources-53:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/746d01b7d3c2aed0ab79237225e445e7/transformed/appcompat-1.6.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,407,483,542,613",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,478,537,608,676"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ba3b4ec72b59356f0e032a9c3c099aa1/transformed/appcompat-v7-21.0.3/res/values-sw600dp/values.xml",
+                    "from": {
+                        "startLines": "4,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "126,395",
+                        "endColumns": "69,54",
+                        "endOffsets": "191,445"
+                    },
+                    "to": {
+                        "startLines": "6,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "337,1358",
+                        "endColumns": "69,54",
+                        "endOffsets": "402,1408"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/17d931799d0c9a5cdd9dfe2e05f433f1/transformed/material-1.9.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,673,732,795",
+                        "endLines": "2,3,4,5,6,7,9,10,11,12,13,17",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,668,727,790,962"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,19,20,21,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "681,741,811,882,954,1012,1070,1179,1243,1299,1413,1476",
+                        "endLines": "11,12,13,14,15,16,18,19,20,21,23,27",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "736,806,877,949,1007,1065,1174,1238,1294,1353,1471,1643"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Brains" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/black99</item>
+        <item name="colorPrimaryVariant">@color/grey_light</item>
+        <item name="colorOnPrimary">@color/bg_day</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+    
+    <style name="Theme.SplashTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/grey_light</item>
+        <!--<item name="windowSplashScreenAnimatedIcon">@drawable/logo_day</item> -->
+        <item name="windowSplashScreenAnimationDuration">0</item>
+        <item name="postSplashScreenTheme">@style/Theme.Brains</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/title</item>
+        <item name="android:windowBackground">@color/grey_light</item> 
+        <!-- <item name="colorPrimary">@color/grey</item> <item name="colorPrimaryDark">@color/black</item> 
+        <item name="colorAccent">@color/white</item> <item name="android:statusBarColor">@color/black</item> -->
+
+        <!-- Status bar and Nav bar configs -->
+        <item name="android:statusBarColor">@color/bg_day</item>
+        <item name="android:navigationBarColor">@color/grey_light</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    
+    <style name="Theme.Welcome" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        
+        <!-- Status bar and Nav bar configs -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    
+    <style name="Theme.Brains.FullScreen" parent="Theme.Brains">
+        <!-- Primary brand color. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        
+        <!-- Status bar and Nav bar configs -->
+        <item name="android:statusBarColor">@color/grey_light</item>
+        <item name="android:navigationBarColor">@color/grey_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    
+    <style name="FabStyle">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:paddingVertical">5dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black99</item>
+        <!-- <item name="android:background">@color/white</item> -->>
+    </style>
+    
+</resources>

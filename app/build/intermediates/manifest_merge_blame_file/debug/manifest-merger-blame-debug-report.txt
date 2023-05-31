@@ -1,0 +1,176 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="nx.peter.app.brains"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:6:5-67
+11-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:7:5-81
+12-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:8:5-80
+13-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+14-->[com.github.Petersburg2020:AndroidUI:1.0.4a] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c05edea7328bb1bdc1795582432ba8fd/transformed/AndroidUI-1.0.4a/AndroidManifest.xml:11:5-13:40
+14-->[com.github.Petersburg2020:AndroidUI:1.0.4a] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c05edea7328bb1bdc1795582432ba8fd/transformed/AndroidUI-1.0.4a/AndroidManifest.xml:12:9-66
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.github.parse-community.Parse-SDK-Android:parse:4.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/bc031b2e7efe4ff6926f6f019dbddd32/transformed/parse-4.1.0/AndroidManifest.xml:18:5-79
+15-->[com.github.parse-community.Parse-SDK-Android:parse:4.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/bc031b2e7efe4ff6926f6f019dbddd32/transformed/parse-4.1.0/AndroidManifest.xml:18:22-76
+16
+17    <permission
+17-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c377f8f5662cad0cb2d3febab728415b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+18        android:name="nx.peter.app.brains.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c377f8f5662cad0cb2d3febab728415b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c377f8f5662cad0cb2d3febab728415b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="nx.peter.app.brains.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c377f8f5662cad0cb2d3febab728415b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c377f8f5662cad0cb2d3febab728415b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:10:5-38:19
+24        android:allowBackup="true"
+24-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:11:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.9.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c377f8f5662cad0cb2d3febab728415b/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:12:9-65
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:13:9-54
+30        android:icon="@drawable/logo_day"
+30-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:14:9-42
+31        android:label="@string/app_name"
+31-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:15:9-41
+32        android:requestLegacyExternalStorage="true"
+32-->[com.github.Petersburg2020:AndroidUI:1.0.4a] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c05edea7328bb1bdc1795582432ba8fd/transformed/AndroidUI-1.0.4a/AndroidManifest.xml:15:18-61
+33        android:roundIcon="@drawable/logo_day"
+33-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:16:9-47
+34        android:supportsRtl="true"
+34-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:17:9-35
+35        android:theme="@style/Theme.Brains" >
+35-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:18:9-44
+36        <activity
+36-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:21:9-29:20
+37            android:name="nx.peter.app.brains.SplashMain"
+37-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:22:13-39
+38            android:exported="true"
+38-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:23:13-36
+39            android:theme="@style/Theme.SplashTheme" >
+39-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:24:13-53
+40            <intent-filter>
+40-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:25:13-28:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:26:17-69
+41-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:26:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:27:17-77
+43-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:27:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:30:9-33:47
+47            android:name="nx.peter.app.brains.MainActivity"
+47-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:31:13-41
+48            android:exported="true"
+48-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:32:13-36
+49            android:label="@string/app_name" />
+49-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:33:13-45
+50        <activity
+50-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:34:9-37:38
+51            android:name="nx.peter.app.brains.SplashActivity"
+51-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:35:13-43
+52            android:exported="true"
+52-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:37:13-36
+53            android:theme="@style/Theme.Brains.FullScreen" />
+53-->/storage/emulated/0/AndroidIDEProjects/brain/Brains/app/src/main/AndroidManifest.xml:36:13-59
+54        <activity
+54-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+55            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+55-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+56            android:excludeFromRecents="true"
+56-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+57            android:exported="false"
+57-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+58            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+58-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+59        <!--
+60            Service handling Google Sign-In user revocation. For apps that do not integrate with
+61            Google Sign-In, this service will never be started.
+62        -->
+63        <service
+63-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+64            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+64-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+65            android:exported="true"
+65-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+66            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+66-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+67            android:visibleToInstantApps="true" />
+67-->[com.google.android.gms:play-services-auth:20.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/15f6f12e2211facb04dcd92511c397a8/transformed/play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+68
+69        <activity
+69-->[com.google.android.gms:play-services-base:18.0.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/569b9a82268019289f247d524fa60074/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+70            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+70-->[com.google.android.gms:play-services-base:18.0.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/569b9a82268019289f247d524fa60074/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+71            android:exported="false"
+71-->[com.google.android.gms:play-services-base:18.0.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/569b9a82268019289f247d524fa60074/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+72            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+72-->[com.google.android.gms:play-services-base:18.0.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/569b9a82268019289f247d524fa60074/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+73
+74        <meta-data
+74-->[com.google.android.gms:play-services-basement:18.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/58ba268571e831506b399ede9d1d207b/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+75            android:name="com.google.android.gms.version"
+75-->[com.google.android.gms:play-services-basement:18.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/58ba268571e831506b399ede9d1d207b/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+76            android:value="@integer/google_play_services_version" />
+76-->[com.google.android.gms:play-services-basement:18.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/58ba268571e831506b399ede9d1d207b/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+77
+78        <provider
+78-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/fb56d77a0fced1d9f7b0e3a137ab6cae/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+79            android:name="androidx.startup.InitializationProvider"
+79-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/fb56d77a0fced1d9f7b0e3a137ab6cae/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+80            android:authorities="nx.peter.app.brains.androidx-startup"
+80-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/fb56d77a0fced1d9f7b0e3a137ab6cae/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+81            android:exported="false" >
+81-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/fb56d77a0fced1d9f7b0e3a137ab6cae/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+82            <meta-data
+82-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/fb56d77a0fced1d9f7b0e3a137ab6cae/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+83-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/fb56d77a0fced1d9f7b0e3a137ab6cae/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+84                android:value="androidx.startup" />
+84-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/fb56d77a0fced1d9f7b0e3a137ab6cae/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+85            <meta-data
+85-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/48b60869dfab371079cdb6f48007be85/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+86                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/48b60869dfab371079cdb6f48007be85/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+87                android:value="androidx.startup" />
+87-->[androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/48b60869dfab371079cdb6f48007be85/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+88        </provider>
+89
+90        <uses-library
+90-->[androidx.window:window:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ad4f7e7d99e3f445457b00607303f088/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+91            android:name="androidx.window.extensions"
+91-->[androidx.window:window:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ad4f7e7d99e3f445457b00607303f088/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+92            android:required="false" />
+92-->[androidx.window:window:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ad4f7e7d99e3f445457b00607303f088/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+93        <uses-library
+93-->[androidx.window:window:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ad4f7e7d99e3f445457b00607303f088/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+94            android:name="androidx.window.sidecar"
+94-->[androidx.window:window:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ad4f7e7d99e3f445457b00607303f088/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+95            android:required="false" />
+95-->[androidx.window:window:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ad4f7e7d99e3f445457b00607303f088/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+96    </application>
+97
+98</manifest>

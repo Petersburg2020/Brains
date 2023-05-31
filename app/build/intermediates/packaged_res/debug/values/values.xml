@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_day">#FFA5A5A5</color>
+    <color name="black99">#FF222222</color>
+    <color name="dark_grey">#1B1B1B</color>
+    <color name="dark_grey99">#FF555555</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="already_a_member">Already a Member? Sign in now!</string>
+    <string name="app_name">Brains</string>
+    <string name="back4app_app_id">UrydU60Maz4FovwzROrT96HIha6mpeompN0y6P1D</string>
+    <string name="back4app_client_key">mVxfhUakKzdwDFVLw5fqYGYrzLaxuXescDqeoxU2</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="brains_logo">Holds Brains Logo</string>
+    <string name="cancel">Cancel</string>
+    <string name="child_node">Child Node Here...</string>
+    <string name="clear">Clear</string>
+    <string name="default_news">Scrolling News stays here. Wait for the next update...</string>
+    <string name="displays_news">Displays news and updates in Brains</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email">username@domain.com</string>
+    <string name="email_icon">email icon</string>
+    <string name="file_upload">FILE UPLOAD</string>
+    <string name="get_connected">Get connected with other great minds</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon">icon</string>
+    <string name="log_in">LOG IN</string>
+    <string name="menu_logout">Logout</string>
+    <string name="modify_models">Modify Models</string>
+    <string name="not_a_member">Not a Member? Sign up now!</string>
+    <string name="password">Password1@</string>
+    <string name="password_icon">password icon</string>
+    <string name="pick">Pick</string>
+    <string name="pick_file">pick file</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="submit">submit</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="top_image">Holds the top image</string>
+    <string name="upload_file_here">Upload file here...</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome</string>
+    <style name="FabStyle">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:paddingVertical">5dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black99</item>
+        >
+    </style>
+    <style name="Theme.Brains" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/black99</item>
+        <item name="colorPrimaryVariant">@color/grey_light</item>
+        <item name="colorOnPrimary">@color/bg_day</item>
+        
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+    <style name="Theme.Brains.FullScreen" parent="Theme.Brains">
+        
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        
+        
+        <item name="android:statusBarColor">@color/grey_light</item>
+        <item name="android:navigationBarColor">@color/grey_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.SplashTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/grey_light</item>
+        
+        <item name="windowSplashScreenAnimationDuration">0</item>
+        <item name="postSplashScreenTheme">@style/Theme.Brains</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/title</item>
+        <item name="android:windowBackground">@color/grey_light</item> 
+        
+
+        
+        <item name="android:statusBarColor">@color/bg_day</item>
+        <item name="android:navigationBarColor">@color/grey_light</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.Welcome" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        
+        
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
